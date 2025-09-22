@@ -181,11 +181,12 @@ footer {
 @media (max-width: 768px) {
   .logo img {
     height: 60px; /* Taille réduite */
+    margin: 0;
   }
 
   header {
     text-align: left; /* Alignement à gauche */
-    padding: 8px 16px;
+    padding: 4px 12px;
   }
 
   .header-content {
@@ -272,4 +273,5 @@ footer {
     padding-bottom: 80px; /* espace pour la nav mobile */
   }
 }
+
 
