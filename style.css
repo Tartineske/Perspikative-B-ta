@@ -180,7 +180,7 @@ footer {
 
 @media (max-width: 768px) {
   .logo img {
-    height: 65px; /* Taille réduite */
+    height: 70px; /* Taille réduite */
     margin: 0;
   }
 
@@ -273,6 +273,3 @@ footer {
     padding-bottom: 80px; /* espace pour la nav mobile */
   }
 }
-
-
-
